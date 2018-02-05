@@ -1,0 +1,3 @@
+cmd 에서
+node server.js 또는 supervisor server.js 입력 후
+Server running ... 나오면 실행된거임
